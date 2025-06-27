@@ -8,6 +8,8 @@
 <button onckilik="login"()">Logout</button>
   <button onclick="logout()">Logout</button>
 
+else if
+"register akun amanah online";
   <script src="script.js"></script>
   <script>
     checkSession();
