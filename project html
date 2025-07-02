@@ -42,6 +42,7 @@ akses login
 
 
     <button id="loginBtn">Login untuk akses data</button>
+   <button id="regisBtn"> Register untuk akses daftar</button>
 <button id="logoutBtn">Logout</button>
 
   </div>
