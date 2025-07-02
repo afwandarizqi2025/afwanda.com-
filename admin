@@ -1,4 +1,4 @@
-amanah online
+amanah online & manajemen bisnis online
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,6 +19,7 @@ amanah online
 
 <h2>CRUD Sederhana dengan Supabase</h2>
 <button id="addBtn">Tambah</button>
+<button id="minBtn">Kurang</button>
 
 <table>
   <thead>
