@@ -24,4 +24,5 @@ cookies = "cookiesAccepts"
 cookies = "bugs.With.Error"
 string if for else = "jika berhasil daftar, maka selanjutnya, silakan kaitkan akun sudah ada"
 
-<html> "halaman akun diatas <html>
+<html> "halaman akun diatas" <html>
+<html "form berhasil"<html>
